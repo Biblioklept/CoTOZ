@@ -1,37 +1,27 @@
-## Welcome to GitHub Pages
+## Description
 
-You can use the [editor on GitHub](https://github.com/Biblioklept/call-of-the-old-zone/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+The Call of The Old Zone modlist is a vanilla+ modlist that provides bugfixes and some minor gameplay, graphical and animation tweaks. It also provides textures from the old games to give it that good old S.T.A.L.K.E.R. Call of Pripyat/Chernobyl feeling I love.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Modlist
+- Smurth's masks
+- Smurth LilGABE hybrid CoTZ update 3 - Main
+- Crosshair Presets
+- CoTZ - Traders Buy Broken Guns
+- CoTZ No Dropping Weapons When Punched
+- No More Lens Flare
+- No More Airlock
+- Radiation Overhaul for CoTZ
+- Repair Toolkit Tweaks
+- Wepls Hit Effects for CoTZ
+- Dynamic Faction Relations Tweaked
+- No Immortal NPCs
+- Faster Tooltips
+- Box Breaker
+- No Red in Emissions
+- Stalker Reanimation Project 2 for CoTZ
+- CoP Weapon Textures
+- Savrog Veles NVG Fix
+- Better Vanilla Headlamp
+- CoTZ Essential Fixes and Tweaks 1.2
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Biblioklept/call-of-the-old-zone/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+### [Download](https://github.com/Biblioklept/call-of-the-old-zone/archive/refs/heads/main.zip)
