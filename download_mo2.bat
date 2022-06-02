@@ -1,0 +1,1 @@
+start "" https://github.com/ModOrganizer2/modorganizer/releases/download/v2.4.4/Mod.Organizer-2.4.4.7z
