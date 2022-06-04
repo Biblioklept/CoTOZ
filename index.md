@@ -1,4 +1,4 @@
-#
+![Call of The Old Zone Logo](https://raw.githubusercontent.com/Biblioklept/CoTOZ/gh-pages/img/branding/cotoz.png)
 
 ## Description
 
